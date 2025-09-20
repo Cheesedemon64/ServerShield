@@ -192,9 +192,8 @@ Edit the JSON alert templates in the scripts:
 ## 📞 Support
 
 ### Community Support (FREE)
-- GitHub Issues: https://github.com/Cheesedemon64/ServerShield/issues
-- Email: bazzersnibot@outlook.com
-
+- GitHub Issues: https://github.cbazzersnibot@outom/Cheesedemon64/ServerShield/issues
+- Email: OTYTbuisness@outlook.com
 ### Commercial Support (PAID)
 - Priority support for licensed corporations
 - Custom deployment assistance
@@ -214,7 +213,7 @@ Edit the JSON alert templates in the scripts:
 - 🚫 Apple, Microsoft, Google
 - 🚫 Any company >$10M revenue
 
-**Big corps:** Pay up or get out! Contact bazzersnibot@outlook.com
+**Big corps:** Pay up or get out! Contact OTYTbuisness@outlook.com
 
 ## 🎮 Special Notes
 
