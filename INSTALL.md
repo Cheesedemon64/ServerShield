@@ -218,8 +218,7 @@ Edit the JSON alert templates in the scripts:
 ## 🎮 Special Notes
 
 ### Why Nintendo is Banned
-Nintendo destroys fan projects, attacks emulation, sends frivolous DMCA takedowns, and shows general hostility toward the gaming community. They made their bed with anti-community behavior - now they can lie in it. 🖕🎮
-
+Nintendo destroys fan projects, attacks emulation, sends often DMCA takedowns, and shows general hostility toward the gaming community. They made their choice!
 ### Why Linux Gets Roasted
 Windows is simply superior. But we made a Linux version anyway because we're nice people. You're welcome, penguin users. 🐧
 
