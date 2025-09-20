@@ -108,8 +108,8 @@ Nintendo Co., Ltd. is specifically banned due to:
 **Copyright (c) 2025 CheeseDemon64**
 **All rights reserved under CheeseDemon64 Anti-Corporate License v1.0**
 
-*For licensing inquiries: business@cheesedemon64.dev*
-*For community support: community@cheesedemon64.dev*
+*For licensing inquiries: CONTACTS TEMPORALIEY REMOVED*
+*For community support: TEMPORALIEY REMOVED*
 
 **"Corporate security for EVERYONE - except the corporate jerks!"** 🧀⚖️
 # Commercial Licensing for ServerShield
