@@ -10,7 +10,7 @@
 # 💰 Corporate use: Commercial license required
 # 🚫 Nintendo: BANNED (they're jerks)
 # 
-# Contact: bazzersnibot@outlook.com
+# Contact: OTYTbuisness@outlook.com
 # GitHub: https://github.com/Cheesedemon64/ServerShield
 # 
 # This software is protected by copyright law.
@@ -63,7 +63,7 @@ Found a vulnerability? We appreciate responsible disclosure!
 
 Licensed corporations get priority security support:
 
-**Email:** bazzersnibot@outlook.com  
+**Email:** OTYTbuisness@outlook.com
 **Subject:** `[COMMERCIAL SECURITY] Urgent Vulnerability - [Company Name]`
 
 **Response Time:**
