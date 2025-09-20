@@ -193,11 +193,10 @@ Nintendo is **permanently banned** from reporting vulnerabilities or requesting 
 **Reason:** Nintendo's history of:
 - Destroying fan projects and ROM preservation
 - Attacking emulation and homebrew communities
-- Frivolous DMCA takedowns against legitimate projects
-- Anti-consumer practices and artificial scarcity
+- DMCA takedowns against legitimate projects
 - General hostility toward the gaming community
 
-**Nintendo:** You made your bed with anti-community behavior. Security vulnerabilities are the least of your problems. 🖕🎮
+**Nintendo:** You made your bed with anti-community behavior. Security vulnerabilities are the least of your problems. 
 
 ### Other Banned Entities
 
