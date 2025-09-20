@@ -23,7 +23,7 @@
 - Patent trolls 🚫
 - Publicly traded corporations 🚫
 
-**Big corps: Contact bazzersnibot@outlook.com for licensing**
+**Big corps: Contact OTYTbuisness@outlook.com for licensing**
 
 ### 🧀 Philosophy
 *"Corporate security for EVERYONE - but corporations pay their fair share!"*
