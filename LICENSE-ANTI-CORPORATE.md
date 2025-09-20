@@ -162,7 +162,7 @@ These companies are **PERMANENTLY BANNED** and cannot purchase licenses:
 - Nintendo-level jerkiness: **PERMANENT BAN**
 
 ### 📞 Contact Information
-- **Email:** bazzersnibot@outlook.com
+- **Email:** OTYTbuisness@outlook.com
 - **Subject:** "Commercial License Request - [Company Name]"
 - **Required Info:** 
   - Company size and revenue
