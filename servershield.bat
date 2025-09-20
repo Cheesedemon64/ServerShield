@@ -19,19 +19,10 @@ REM Created by: CheeseDemon64
 REM Designed for Tipperary County Council (TIPPCoCo)
 REM Enterprise-grade security for government systems
 REM 
-REM License: MIT License
+REM License: As mentioned in the license file
 REM Copyright (c) 2025 CheeseDemon64
 REM 
-REM Permission is hereby granted, free of charge, to any person obtaining a copy
-REM of this software and associated documentation files (the "Software"), to deal
-REM in the Software without restriction, including without limitation the rights
-REM to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-REM copies of the Software, and to permit persons to whom the Software is
-REM furnished to do so, subject to the following conditions:
-REM 
-REM The above copyright notice and this permission notice shall be included in all
-REM copies or substantial portions of the Software.
-REM 
+
 REM THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 REM IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 REM FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
