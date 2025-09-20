@@ -47,7 +47,7 @@ The following entities are **EXPRESSLY PROHIBITED** from using this software:
 
 Big corporations wanting to use ServerShield must:
 
-1. **Contact:** bazzersnibot@outlook.com
+1. **Contact:** OTYTbuisness@outlook.com
 2. **Licensing fee:** Starting at $100,000/year
 3. **Revenue sharing:** 2% of gross revenue from products using this code
 4. **Community contribution:** Must contribute 10% of licensing fee to open source projects
