@@ -101,7 +101,7 @@ This license ensures that:
 Nintendo Co., Ltd. is specifically banned due to:
 - Copyright and DMCA reasons
 - Think about it.
-**Nintendo: You made your bed with your anti-community behavior. Lie in it.** 🖕🎮
+**Nintendo: You made your bed with your anti-community behavior. Lie in it.** 🎮
 
 ---
 
