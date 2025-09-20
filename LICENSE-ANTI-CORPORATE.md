@@ -193,7 +193,7 @@ Instead of paying fees, corporations can:
 3. **Fund $1M/year in community projects**
 4. **Pledge eternal allegiance to open source values**
 
-*Note: This option not available to Nintendo because they're gonna undo it right after.* 🎮🖕
+*Note: This option not available to Nintendo because they're gonna undo it right after.* 
 
 ---
 
