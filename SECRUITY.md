@@ -44,7 +44,7 @@ ServerShield is designed with security-first principles:
 
 Found a vulnerability? We appreciate responsible disclosure!
 
-**Email:** bazzersnibot@outlook.com  
+**Email:** OTYTbuisness@outlook.com  
 **Subject:** `[SECURITY] Vulnerability Report - ServerShield`
 
 **Include:**
