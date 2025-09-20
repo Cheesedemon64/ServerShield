@@ -243,7 +243,7 @@ Special thanks to security researchers who help make ServerShield more secure:
 
 **Critical vulnerabilities (RCE, data exposure, etc.):**
 
-📧 **Email:** bazzersnibot@outlook.com  
+📧 **Email:** OTYTbuisness@outlook.com 
 📋 **Subject:** `[CRITICAL SECURITY] Immediate Attention Required`
 
 For critical vulnerabilities, we aim to respond within **1 week** and provide fixes within **30 days**.
