@@ -99,13 +99,8 @@ This license ensures that:
 ## 🎮 SPECIAL NINTENDO CLAUSE
 
 Nintendo Co., Ltd. is specifically banned due to:
-- Destroying fan projects and ROM preservation efforts
-- Attacking emulation and homebrew communities  
-- Frivolous DMCA takedowns against legitimate projects
-- Anti-consumer practices and artificial scarcity
-- Hostility toward the gaming community
-- General jerkiness toward fans and developers
-
+- Copyright and DMCA reasons
+- Think about it.
 **Nintendo: You made your bed with your anti-community behavior. Lie in it.** 🖕🎮
 
 ---
