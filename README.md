@@ -45,5 +45,5 @@ Community-first development forever! 🤝
 **Copyright (c) 2025 Cheesedemon64**
 **All rights reserved under Cheesedemon64 Anti-Corporate License v1.0**
 
-*For licensing inquiries: bazzersnibot@outlook.com*
+*For licensing inquiries: OTYTbuisness@outlook.com*
 *GitHub: https://github.com/Cheesedemon64/ServerShield*
