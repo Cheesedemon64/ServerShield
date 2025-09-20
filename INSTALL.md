@@ -8,7 +8,7 @@
 # 
 # 🆓 Community use: FREE
 # 💰 Corporate use: Commercial license required
-# 🚫 Nintendo: BANNED (they're jerks)
+# 🚫 Nintendo: BANNED 
 # 
 # Contact: OTYTbuisness@outlook.com
 # GitHub: https://github.com/Cheesedemon64/ServerShield
