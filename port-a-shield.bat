@@ -11,7 +11,7 @@ REM 🆓 Community use: FREE
 REM 💰 Corporate use: Commercial license required
 REM 🚫 Nintendo: BANNED (they're jerks)
 REM 
-REM Contact: bazzersnibot@outlook.com
+REM Contact: OTYTbuisness@outlook.com
 REM GitHub: https://github.com/Cheesedemon64/ServerShield
 REM 
 REM This software is protected by copyright law.
