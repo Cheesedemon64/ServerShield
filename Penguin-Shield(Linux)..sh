@@ -27,7 +27,7 @@
 # - TARTEUS: Emergency alert system (Greek: Tartarus)
 # - SINEVA: Suspicious file detection (Delta Force)
 # - PENGUIN-GUARD: Linux-specific security (because penguins...)
-# - Global Threat Initiative: Server response system (Delta Force good guys)
+# - Global Threat Initiative: Server response system (Delta Force)
 # - ctOS: Logic and monitoring system (Watch Dogs 2)
 #
 # Created by: Cheesedemon64
