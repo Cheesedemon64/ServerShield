@@ -9,7 +9,7 @@ REM Licensed under Cheesedemon64 Anti-Corporate License v1.0
 REM 
 REM 🆓 Community use: FREE
 REM 💰 Corporate use: Commercial license required
-REM 🚫 Nintendo: BANNED (they're jerks)
+REM 🚫 Nintendo: BANNED 
 REM 
 REM Contact: OTYTbuisness@outlook.com
 REM GitHub: https://github.com/Cheesedemon64/ServerShield
