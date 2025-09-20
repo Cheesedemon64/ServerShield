@@ -1,0 +1,74 @@
+# ================================================
+# ServerShield Security Suite .gitignore
+# Copyright (c) 2025 Cheesedemon64
+# Licensed under Cheesedemon64 Anti-Corporate License v1.0
+# ================================================
+
+# Security logs and incident files
+*.log
+security_incidents.log
+hacker_attempts.log
+mobile_security.log
+mobile_security_incidents.log
+mobile_hacker_attempts.log
+
+# Downloaded emergency response files
+security_breach_response.bat
+lockdown_system.exe
+alert_handler.dll
+mobile_breach_response.bat
+laptop_lockdown.exe
+security_breach_response.sh
+lockdown_system
+
+# Temporary files created during operation
+temp_hash.txt
+temp_hash2.txt
+temp_battery.html
+
+# Configuration files with sensitive data
+config.ini
+server_config.txt
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows specific
+desktop.ini
+
+# Linux specific
+.directory
+.fuse_hidden*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test files and development artifacts
+test_*.bat
+test_*.sh
+debug_*.txt
+
+# Nintendo legal documents (they're jerks anyway)
+nintendo_cease_desist.pdf
+nintendo_legal_threat.doc
+
+# Corporate licensing attempts from banned companies
+mcafee_license_request.pdf
+apple_licensing_inquiry.doc
+microsoft_acquisition_offer.pdf
